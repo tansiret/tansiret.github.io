@@ -4,10 +4,10 @@
     svg path {
         stroke-dasharray: 3000;
         stroke-dashoffset: 6000;
-        -webkit-animation: dash 7s ease-out forwards reverse;
-        -o-animation: dash 7s ease-out forwards reverse;
-        -moz-animation: dash 7s ease-out forwards reverse;
-        animation: dash 7s ease-out forwards reverse;
+        -webkit-animation: dash 4s ease-in-out forwards reverse;
+        -o-animation: dash 4s ease-in-out forwards reverse;
+        -moz-animation: dash 4s ease-in-out forwards reverse;
+        animation: dash 4s ease-in-out forwards reverse;
     }
 
     @keyframes dash {
